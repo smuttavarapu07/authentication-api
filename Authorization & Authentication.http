@@ -1,0 +1,17 @@
+POST //your URL register
+Content-Type: application/json
+
+{
+  "username": "YOUR_USERNAME",
+  "password": "YOUR_PASSWORD"
+}
+.
+###
+
+POST //your URL login
+Content-Type: application/json
+
+{
+  "username": "YOUR_USERNAME",
+  "password": "YOUR_PASSWORD"
+}
